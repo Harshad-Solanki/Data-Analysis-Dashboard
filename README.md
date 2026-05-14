@@ -29,4 +29,4 @@ Designed a clean and professional dashboard for easy decision-making
 ## 📈 Project Outcome
 This project demonstrates how Excel can transform raw healthcare data into interactive dashboards and actionable insights. It improved my skills in data cleaning, visualization, and storytelling with data while working on a real-world healthcare analytics scenario.
 
-[![LinkedIn](https://www.linkedin.com/in/harshadsolanki9/)](https://linkedin.com)
+[![LinkedIn](https://www.linkedin.com/in/harshadsolanki9/)]
