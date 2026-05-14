@@ -18,7 +18,7 @@ Designed a clean and professional dashboard for easy decision-making
 <img width="1674" height="704" alt="Hotel Emergeny Room Dashbaord" src="https://github.com/user-attachments/assets/560c4c16-94be-4257-b1fe-c76b153072d0" />
 
 ## 🛠 Tools & Skills Used
-• Microsoft Excel ,
+• Microsoft Excel.
 • Data Cleaning & Transformation ,
 • Pivot Tables & Pivot Charts ,
 • Slicers & Filters ,
