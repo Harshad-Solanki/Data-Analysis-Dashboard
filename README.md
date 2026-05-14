@@ -18,13 +18,13 @@ Designed a clean and professional dashboard for easy decision-making
 <img width="1674" height="704" alt="Hotel Emergeny Room Dashbaord" src="https://github.com/user-attachments/assets/560c4c16-94be-4257-b1fe-c76b153072d0" />
 
 ## 🛠 Tools & Skills Used
-Microsoft Excel ,
-Data Cleaning & Transformation ,
-Pivot Tables & Pivot Charts ,
-Slicers & Filters ,
-Dashboard Design ,
-Data Analysis ,
-Analytical Thinking
+• Microsoft Excel ,
+• Data Cleaning & Transformation ,
+• Pivot Tables & Pivot Charts ,
+• Slicers & Filters ,
+• Dashboard Design ,
+• Data Analysis ,
+• Analytical Thinking
 
 ## 📈 Project Outcome
 This project demonstrates how Excel can transform raw healthcare data into interactive dashboards and actionable insights. It improved my skills in data cleaning, visualization, and storytelling with data while working on a real-world healthcare analytics scenario.
